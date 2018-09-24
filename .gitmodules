@@ -1,0 +1,3 @@
+[submodule "popout_for_youtube"]
+	path = popout_for_youtube
+	url = https://github.com/justinforce/popout_for_youtube
